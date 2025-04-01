@@ -1,3 +1,4 @@
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php 
 include('connexion.php');
  // Declarations des variables
