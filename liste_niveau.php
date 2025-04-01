@@ -1,3 +1,4 @@
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php 
 	$db_name='school';
 	$db_username='root';
