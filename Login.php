@@ -1,3 +1,4 @@
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php
 require_once('connexion.php');
 $email = $_POST['email'];
