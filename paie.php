@@ -1,3 +1,4 @@
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php 
 /// NOM BDD
 $db_name='school';
