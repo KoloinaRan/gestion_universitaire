@@ -1,6 +1,4 @@
-                            <!--
-	*** Koloina RANDRIARISOA || Authentification_admin2.php ***
-                             -->
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php 
 session_start();
 
