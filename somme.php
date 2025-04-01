@@ -1,3 +1,4 @@
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php 
 	/// NOM BDD
 	$db_name='school';
@@ -14,8 +15,6 @@
 	if (!$db){
 		die("echec de la connexion:" .mysqli_connect_error());
 	}
-
-
 ?>
 
 
