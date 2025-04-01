@@ -23,20 +23,6 @@ Gestion Universitaire est une plateforme web permettant de gérer efficacement l
 - MySQL
 - Git (pour le suivi du projet)
 
-### Étapes
-1. **Cloner le projet**
-```sh
- git clone https://github.com/KoloinaRan/gestion_universite.git
-```
-2. **Placer le projet dans le serveur local**
-   - Copier le dossier dans `C:/wamp64/www/` (ou équivalent pour XAMPP)
-3. **Configurer la base de données**
-   - Importer le fichier SQL dans MySQL
-   - Modifier `config.php` avec vos informations de connexion à la base de données
-4. **Lancer l'application**
-   - Démarrer Apache et MySQL
-   - Accéder à l'application via `http://localhost/gestion_universite`
-
 ## Contribution
 Les contributions sont les bienvenues ! Vous pouvez proposer des améliorations via des **Pull Requests**.
 
