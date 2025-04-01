@@ -1,6 +1,5 @@
+                                          <!-- *** Koloina RANDRIARISOA  *** -->
 <?php 
-
-
 	/// NOM BDD
 	$db_name='school';
 	/// UTILISATEUR BDD WAMP
